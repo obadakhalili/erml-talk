@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "erml-talk",
+  "scripts": {
+    "make": "vite --host --port 8080",
+    "make:force": "yarn make --force",
+    "build": "vite build",
+    "show": "vite preview --host"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4"
+  },
+  "dependencies": {
+    "reveal.js": "^4.2.0"
+  }
+}
