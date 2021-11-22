@@ -8,6 +8,9 @@
     "show": "vite preview --host"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19",
     "vite": "^2.6.4"
   },
   "dependencies": {
